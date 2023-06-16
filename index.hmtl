@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página con Fondo Negro</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido(a) a mi página con fondo negro</h1>
+    <p>Esta es una página con un fondo negro.</p>
+</body>
+</html>
